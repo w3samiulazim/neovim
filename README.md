@@ -9,8 +9,8 @@
   - [📷 Screenshots](#-screenshots)
   - [🎁 Features](#-features)
   - [🔧 Installation](#-installation)
-  - [🖥️ Keybindings](#-keybindings)
-  - [🗺️ Structure](#-structure)
+  - [🖥️ Keybindings](#️-keybindings)
+  - [🗺️ Structure](#️-structure)
 
 <br/>
 
@@ -21,27 +21,27 @@
 <div align="left">
 <h3 align="left">Dashboard:</h3>
 <br/>
-  <img src="https://gitlab.com/samiulazim/dotfiles/-/raw/main/.screenshots/nvim-dashboard.png" alt="Nvim Dashboard" width=900px>
+  <img src="https://raw.githubusercontent.com/iamsamiulazim/Dotfiles/main/.screenshots/nvim-dashboard.png" alt="Nvim Dashboard" width=900px>
 <br/>
 <br/>
 <h3 align="left">Telescope:</h3>
 <br/>
-  <img src="https://gitlab.com/samiulazim/dotfiles/-/raw/main/.screenshots/nvim-telescope.png" alt="Nvim Telescope" width=900px>
+  <img src="https://raw.githubusercontent.com/iamsamiulazim/Dotfiles/main/.screenshots/nvim-telescope.png" alt="Nvim Telescope" width=900px>
 <br/>
 <br/>
 <h3 align="left">NvimTree:</h3>
 <br/>
-  <img src="https://gitlab.com/samiulazim/dotfiles/-/raw/main/.screenshots/nvim-tree.png" alt="Nvim Tree" width=900px>
+  <img src="https://raw.githubusercontent.com/iamsamiulazim/Dotfiles/main/.screenshots/nvim-telescope.png" alt="Nvim Tree" width=900px>
 <br/>
 <br/>
 <h3 align="left">Floaterm:</h3>
 <br/>
-  <img src="https://gitlab.com/samiulazim/dotfiles/-/raw/main/.screenshots/nvim-floaterm.png" alt="Nvim Floaterm" width=900px>
+  <img src="https://raw.githubusercontent.com/iamsamiulazim/Dotfiles/main/.screenshots/nvim-tree.png" alt="Nvim Floaterm" width=900px>
 <br/>
 <br/>
 <h3 align="left">Syntax:</h3>
 <br/>
-  <img src="https://gitlab.com/samiulazim/dotfiles/-/raw/main/.screenshots/nvim-syntax.png" alt="Nvim Syntax" width=900px>
+  <img src="https://raw.githubusercontent.com/iamsamiulazim/Dotfiles/main/.screenshots/nvim-syntax.png" alt="Nvim Syntax" width=900px>
 </div>
 
 <br/>
