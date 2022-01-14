@@ -1,7 +1,5 @@
 # 🛠️ NeoVim Configuration
 
-> Inspiration from [vinodnimbalkar's nvim](https://github.com/vinodnimbalkar/dotfiles/tree/master/.config/nvim).
-
 <br/>
 
 ## 🗺️ Table Of Contents
@@ -145,3 +143,5 @@ You need to install: Ranger or Vifm, Lazygit, Fzf, Nodejs, Python, on your syste
 - The init.lua heart of neovim configuration.
 - install.sh to install neovim configuration.
 - themes directory for themes
+
+> Inspired by [vinodnimbalkar's nvim](https://github.com/vinodnimbalkar/dotfiles/tree/master/.config/nvim).
