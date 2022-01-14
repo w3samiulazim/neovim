@@ -1,7 +1,5 @@
 # 🛠️ NeoVim Configuration
 
-<br/>
-
 ## 🗺️ Table Of Contents
 
   - [📷 Screenshots](#-screenshots)
