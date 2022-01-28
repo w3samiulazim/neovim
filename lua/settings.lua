@@ -18,9 +18,9 @@ cmd "syntax on"
 
 opt("o", "mouse", "a")                         -- Mouse On
 opt("o", "clipboard","unnamedplus")            -- Use system clipboard
-opt("o", "softtabstop", 2)                     -- 2 space
-opt("o", "tabstop", 2)                         -- 2 space
-opt("b", "shiftwidth", 2)                      -- 2 2 CHAINZ
+opt("o", "softtabstop", 4)                     -- 4 space
+opt("o", "tabstop", 4)                         -- 4 space
+opt("b", "shiftwidth", 4)                      -- 4 4 CHAINZ
 opt("b", "expandtab", true)                    -- Spaces > tabs
 opt("b", "smartindent", true)                  -- indent smartly
 opt("o", "number", true)                       -- Show current line number
