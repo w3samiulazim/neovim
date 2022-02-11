@@ -21,7 +21,11 @@ require "lsp-install"
 require "nvim-dap"
 
 -- ColorsScheme
-require "themes/onedark"
+require('onedark').setup {
+    style = 'deep'
+}
+require('onedark').load()
+-- require "themes/onedark"
 require "symbol-outline"
 
 --Color
