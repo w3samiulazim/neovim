@@ -2,6 +2,8 @@
 
 ## 🗺️ Table Of Contents
 
+- [🛠️ NeoVim Configuration](#️-neovim-configuration)
+  - [🗺️ Table Of Contents](#️-table-of-contents)
   - [📷 Screenshots](#-screenshots)
   - [🎁 Features](#-features)
   - [🔧 Installation](#-installation)
@@ -65,11 +67,14 @@
 ## 🔧 Installation
 
 1. Install Neovim latest stable version
-2. Clone this repository `git clone https://gitlab.com/samiulazim/neovim.git`
-3. `cd neovim`
-4. `chmod +x install.sh`
-5. `./install.sh`
-6. The install.sh (Post Installation Script) will make a backup named `nvim.bak` if you have an existing config for neovim.
+2. Then install nvim-packer-
+   <br/>
+   `git clone --depth 1 https://github.com/wbthomason/packer.nvim\ ~/.local/share/nvim/site/pack/packer/start/packer.nvim`
+3. Clone this repository `git clone https://gitlab.com/samiulazim/neovim.git`
+4. `cd neovim`
+5. `chmod +x install.sh`
+6. `./install.sh`
+7. The install.sh (Post Installation Script) will make a backup named `nvim.bak` if you have an existing config for neovim.
 
 > This might only work on Unix-based systems. You can install this setup on Mac or any Linux distribution.
 
