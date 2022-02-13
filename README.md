@@ -68,9 +68,17 @@
 
 1. Install Neovim latest stable version
 2. Then install nvim-packer-
-   <br/>
-   `git clone --depth 1 https://github.com/wbthomason/packer.nvim\ ~/.local/share/nvim/site/pack/packer/start/packer.nvim`
-3. Clone this repository `git clone https://gitlab.com/samiulazim/neovim.git`
+
+   ```bash
+   git clone --depth 1 https://github.com/wbthomason/packer.nvim\ ~/.local/share/nvim/site/  pack/packer/start/packer.nvim
+   ```
+
+3. Clone this repository
+
+   ```bash
+   git clone https://gitlab.com/samiulazim/neovim.git
+   ```
+
 4. `cd neovim`
 5. `chmod +x install.sh`
 6. `./install.sh`
@@ -148,3 +156,7 @@ You need to install: Ranger or Vifm, Lazygit, Fzf, Nodejs, Python, on your syste
 - themes directory for themes
 
 > Inspired by [vinodnimbalkar's nvim](https://github.com/vinodnimbalkar/dotfiles/tree/master/.config/nvim).
+
+```
+
+```
