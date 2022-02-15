@@ -2,8 +2,6 @@
 
 ## 🗺️ Table Of Contents
 
-- [🛠️ NeoVim Configuration](#️-neovim-configuration)
-  - [🗺️ Table Of Contents](#️-table-of-contents)
   - [📷 Screenshots](#-screenshots)
   - [🎁 Features](#-features)
   - [🔧 Installation](#-installation)
