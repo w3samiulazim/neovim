@@ -2,17 +2,9 @@
 
 ## 🗺️ Table Of Contents
 
-<<<<<<< HEAD
-  - [📷 Screenshots](#️-screenshots)
-  - [🎁 Features](#️-features)
-  - [🔧 Installation](#️-installation)
-=======
-- [🛠️ NeoVim Configuration](#️-neovim-configuration)
-  - [🗺️ Table Of Contents](#️-table-of-contents)
   - [📷 Screenshots](#-screenshots)
   - [🎁 Features](#-features)
   - [🔧 Installation](#-installation)
->>>>>>> parent of 56c116c (Update README.md)
   - [🖥️ Keybindings](#️-keybindings)
   - [🗺️ Structure](#️-structure)
 
