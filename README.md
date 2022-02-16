@@ -2,9 +2,9 @@
 
 ## 🗺️ Table Of Contents
 
-  - [📷 Screenshots](#-screenshots)
-  - [🎁 Features](#-features)
-  - [🔧 Installation](#-installation)
+  - [📷 Screenshots](#️-screenshots)
+  - [🎁 Features](#️-features)
+  - [🔧 Installation](#️-installation)
   - [🖥️ Keybindings](#️-keybindings)
   - [🗺️ Structure](#️-structure)
 
