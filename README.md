@@ -154,7 +154,3 @@ You need to install: Ranger or Vifm, Lazygit, Fzf, Nodejs, Python, on your syste
 - themes directory for themes
 
 > Inspired by [vinodnimbalkar's nvim](https://github.com/vinodnimbalkar/dotfiles/tree/master/.config/nvim).
-
-```
-
-```
