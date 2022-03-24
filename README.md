@@ -17,27 +17,27 @@
 <div align="left">
 <h3 align="left">Dashboard:</h3>
 <br/>
-  <img src="https://raw.githubusercontent.com/iamsamiulazim/Dotfiles/main/.screenshots/nvim-dashboard.png" alt="Nvim Dashboard" width=900px>
+  <img src="https://raw.githubusercontent.com/w3samiulazim/Dotfiles/main/.screenshots/nvim-dashboard.png" alt="Nvim Dashboard" width=900px>
 <br/>
 <br/>
 <h3 align="left">Telescope:</h3>
 <br/>
-  <img src="https://raw.githubusercontent.com/iamsamiulazim/Dotfiles/main/.screenshots/nvim-telescope.png" alt="Nvim Telescope" width=900px>
+  <img src="https://raw.githubusercontent.com/w3samiulazim/Dotfiles/main/.screenshots/nvim-telescope.png" alt="Nvim Telescope" width=900px>
 <br/>
 <br/>
 <h3 align="left">NvimTree:</h3>
 <br/>
-  <img src="https://raw.githubusercontent.com/iamsamiulazim/Dotfiles/main/.screenshots/nvim-telescope.png" alt="Nvim Tree" width=900px>
+  <img src="https://raw.githubusercontent.com/w3samiulazim/Dotfiles/main/.screenshots/nvim-telescope.png" alt="Nvim Tree" width=900px>
 <br/>
 <br/>
 <h3 align="left">Floaterm:</h3>
 <br/>
-  <img src="https://raw.githubusercontent.com/iamsamiulazim/Dotfiles/main/.screenshots/nvim-tree.png" alt="Nvim Floaterm" width=900px>
+  <img src="https://raw.githubusercontent.com/w3samiulazim/Dotfiles/main/.screenshots/nvim-tree.png" alt="Nvim Floaterm" width=900px>
 <br/>
 <br/>
 <h3 align="left">Syntax:</h3>
 <br/>
-  <img src="https://raw.githubusercontent.com/iamsamiulazim/Dotfiles/main/.screenshots/nvim-syntax.png" alt="Nvim Syntax" width=900px>
+  <img src="https://raw.githubusercontent.com/w3samiulazim/Dotfiles/main/.screenshots/nvim-syntax.png" alt="Nvim Syntax" width=900px>
 </div>
 
 <br/>
@@ -74,7 +74,7 @@
 3. Clone this repository
 
    ```bash
-   git clone https://gitlab.com/samiulazim/neovim.git
+   git clone https://github.com/w3samiulazim/neovim.git
    ```
 
 4. `cd neovim`
